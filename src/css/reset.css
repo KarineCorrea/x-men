@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*largura interno do titulo, do corpo*/
+    box-sizing: border-box;
+    /*largura externo*/
+}
+
+ul {
+    list-style: none;
+    /*tirar bolinha ao lado da imagem*/
+}
